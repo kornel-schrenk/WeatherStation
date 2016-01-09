@@ -1,3 +1,6 @@
+// WeatherStation (c) 2015-2016 Kornel Schrenk
+// This code is licensed under MIT license (see LICENSE file for details)
+
 #include <SPI.h>
 #include <Wire.h>
 #include <Timer.h>
